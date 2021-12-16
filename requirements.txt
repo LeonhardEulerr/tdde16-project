@@ -2,3 +2,5 @@ pandas
 spacy
 sklearn
 nltk
+tensorflow
+matplotlib
