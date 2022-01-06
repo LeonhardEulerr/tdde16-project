@@ -11,3 +11,5 @@
 
 1. Should I use BERT also and compare the results?
 2. I am also wondering if I should do the naive bayes part or should I just treat LSTM with embedding layer as baseline?
+3. Should I go into details on how word embeddings are created? skip-gram, negative-sampling etc?
+4. Mix some datasets...
