@@ -10,9 +10,15 @@ Following notebooks were a great inspiration for the project:
 - https://www.kaggle.com/adi996/covid-19-tweets-sentiment-prediction-lstm
 - https://towardsdatascience.com/sentiment-analysis-using-lstm-and-glove-embeddings-99223a87fe8e
 
+## Word embeddings
+
+Due to repository's memory limit they cant be pushed here. However, the code for downloading those embeddings is added to the `sentiment_project.ipynb` and can be run from there. All the embeddings will be saved in a folder `embeddings/`
+
 ## Dataset
 
 Tweets about COVID-19 can be downloaded from here: https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
+
+In order to be able to run the code, downloaded dataset should be placed in a `dataset/` folder.
 
 ## Instructions
 
