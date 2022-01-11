@@ -3,5 +3,4 @@ spacy
 sklearn
 nltk
 tensorflow
-matplotlib
 tqdm
